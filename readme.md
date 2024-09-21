@@ -27,7 +27,6 @@ Este projeto é uma aplicação Node.js que insere dados artificiais em um banco
 
 3. Configure o banco de dados MySQL:
 
-   - Crie um banco de dados chamado `clinica_vet`.
    - Atualize as credenciais de conexão com o banco de dados no arquivo `src/utils/db.ts` se necessário.
 
 4. Execute o script SQL para criar as tabelas e realizar as alterações necessárias:
